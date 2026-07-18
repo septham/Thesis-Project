@@ -1,6 +1,8 @@
 # EOG Monitoring
 
-A website for monitoring EOG data  
+A website for monitoring EOG data.
+
+### The Model is pretrain by me using Tensorflow and Keras. The Dataset came from http://www.drozy.ulg.ac.be. I manually labeling all the data based on KSS (Karolinska Sleepiness Scale) level.
 
 ## Folder Structure
 
