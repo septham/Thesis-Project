@@ -4,6 +4,8 @@ A website for monitoring EOG data.
 
 ### The Model is pre-train by me using Tensorflow and Keras. The Dataset came from http://www.drozy.ulg.ac.be. I manually labeling all the data based on KSS (Karolinska Sleepiness Scale) level.
 
+<video src="./video ppt.mp4" width="100%" controls></video>
+
 ## Folder Structure
 
 ```
